@@ -14,10 +14,14 @@ filetree
 └── main.py
 
 ```
+### Performance
+![untitled](https://github.com/BeechburgPieStar/JMTC/assets/107237593/44113e04-aa05-4d40-8610-d0c6b0e5c1ca)
+
+
 ### Dataset
-## Baiduyunpan
-链接：https://pan.baidu.com/s/1IMuj8LLQZPJBwV1V6jFkRw 
-提取码：kk23 
+Baiduyunpan https://pan.baidu.com/s/1IMuj8LLQZPJBwV1V6jFkRw   passwd: kk23 
+
+GoogleDrive https://drive.google.com/file/d/1Q5EmDr90eRI32-dCgquhp64MZaxh5coZ/view?usp=sharing
 
 ### Thanks
 
